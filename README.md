@@ -1,3 +1,4 @@
 # SMSHPLGN
+Discontinued...
 MADE IN SPIGOT 1.8.8 [BETA]
 [CANCELLED FOR NOW]
